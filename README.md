@@ -1,4 +1,4 @@
-# uk-ecommerce-sql-powerbi
+# uk-ecommerce-sql-powerbi-Tableau
 End-to-end UK E-Commerce sales &amp; customer retention analysis using MySQL, Power BI and Tableau
 # UK E-Commerce Sales & Customer Retention Analysis (MySQL, Power BI & Tableau)
 
